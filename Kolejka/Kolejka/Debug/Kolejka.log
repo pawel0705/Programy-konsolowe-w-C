@@ -1,0 +1,18 @@
+﻿  queue.c
+C:\Users\User\Desktop\proste programy konsolowe w C\Kolejka\Kolejka\Kolejka\queue.c(41,9): warning C4013: niezdefiniowany "strcpy"; przy założeniu, że extern zwraca int
+C:\Users\User\Desktop\proste programy konsolowe w C\Kolejka\Kolejka\Kolejka\queue.c(131,37): warning C4013: niezdefiniowany "strcmp"; przy założeniu, że extern zwraca int
+C:\Users\User\Desktop\proste programy konsolowe w C\Kolejka\Kolejka\Kolejka\queue.c(276,11): warning C4013: niezdefiniowany "memset"; przy założeniu, że extern zwraca int
+C:\Users\User\Desktop\proste programy konsolowe w C\Kolejka\Kolejka\Kolejka\queue.c(292,13): warning C4047: "return": "uint64_t" różni się w poziomach operatorów pośrednich od "void *"
+C:\Users\User\Desktop\proste programy konsolowe w C\Kolejka\Kolejka\Kolejka\queue.c(328,22): warning C4013: niezdefiniowany "strlen"; przy założeniu, że extern zwraca int
+C:\Users\User\Desktop\proste programy konsolowe w C\Kolejka\Kolejka\Kolejka\queue.c(334,11): warning C4013: niezdefiniowany "strcat"; przy założeniu, że extern zwraca int
+C:\Users\User\Desktop\proste programy konsolowe w C\Kolejka\Kolejka\Kolejka\queue.c(342,60): warning C4047: "funkcja": "char *" różni się w poziomach operatorów pośrednich od "char (*)[30]"
+C:\Users\User\Desktop\proste programy konsolowe w C\Kolejka\Kolejka\Kolejka\queue.c(342,60): warning C4024: "wstaw_element": różne typy dla formalnego i rzeczywistego parametru 4
+C:\Users\User\Desktop\proste programy konsolowe w C\Kolejka\Kolejka\Kolejka\queue.c(426,81): warning C4047: "funkcja": "char *" różni się w poziomach operatorów pośrednich od "char (*)[30]"
+C:\Users\User\Desktop\proste programy konsolowe w C\Kolejka\Kolejka\Kolejka\queue.c(426,81): warning C4024: "umiesc_element_na_poczatku_kolejki": różne typy dla formalnego i rzeczywistego parametru 4
+C:\Users\User\Desktop\proste programy konsolowe w C\Kolejka\Kolejka\Kolejka\queue.c(473,57): warning C4047: "funkcja": "char *" różni się w poziomach operatorów pośrednich od "char (*)[30]"
+C:\Users\User\Desktop\proste programy konsolowe w C\Kolejka\Kolejka\Kolejka\queue.c(473,57): warning C4024: "dodaj_po_lub_przed": różne typy dla formalnego i rzeczywistego parametru 3
+C:\Users\User\Desktop\proste programy konsolowe w C\Kolejka\Kolejka\Kolejka\queue.c(515,57): warning C4047: "funkcja": "char *" różni się w poziomach operatorów pośrednich od "char (*)[30]"
+C:\Users\User\Desktop\proste programy konsolowe w C\Kolejka\Kolejka\Kolejka\queue.c(515,57): warning C4024: "dodaj_po_lub_przed": różne typy dla formalnego i rzeczywistego parametru 3
+C:\Users\User\Desktop\proste programy konsolowe w C\Kolejka\Kolejka\Kolejka\queue.c(532,39): warning C4244: "funkcja": konwersja z "uint64_t" do "int", możliwa utrata danych
+C:\Users\User\Desktop\proste programy konsolowe w C\Kolejka\Kolejka\Kolejka\queue.c(534,24): warning C4047: "==": "uint64_t" różni się w poziomach operatorów pośrednich od "void *"
+  Kolejka.vcxproj -> C:\Users\User\Desktop\proste programy konsolowe w C\Kolejka\Kolejka\Debug\Kolejka.exe
