@@ -1,0 +1,6 @@
+﻿  letters_map.c
+C:\Users\User\Desktop\proste programy konsolowe w C\Mapa liter\Mapa liter\letters_map.c(25,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\User\Desktop\proste programy konsolowe w C\Mapa liter\Mapa liter\letters_map.c(30,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\User\Desktop\proste programy konsolowe w C\Mapa liter\Mapa liter\letters_map.c(32,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\User\Desktop\proste programy konsolowe w C\Mapa liter\Mapa liter\letters_map.c(36,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Mapa liter.vcxproj -> C:\Users\User\Desktop\proste programy konsolowe w C\Mapa liter\Debug\Mapa liter.exe
