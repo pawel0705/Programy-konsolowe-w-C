@@ -1,0 +1,6 @@
+﻿  drzewo.c
+C:\Users\User\Desktop\Drzewo\Drzewo\drzewo.c(38,33): warning C4013: niezdefiniowany "malloc"; przy założeniu, że extern zwraca int
+C:\Users\User\Desktop\Drzewo\Drzewo\drzewo.c(38,53): warning C4133: "=": niezgodne typy - od "double *" do "int *"
+C:\Users\User\Desktop\Drzewo\Drzewo\drzewo.c(51,6): warning C4013: niezdefiniowany "free"; przy założeniu, że extern zwraca int
+C:\Users\User\Desktop\Drzewo\Drzewo\drzewo.c(106,30): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+  Drzewo.vcxproj -> C:\Users\User\Desktop\Drzewo\Debug\Drzewo.exe
